@@ -210,8 +210,8 @@ https://bitcointalk.org/index.php?topic=5177722.0
   ```cpp
   genesis = CreateGenesisBlock(1565881200, 247, 0x1f3fffff, 1, 42.94967296 * COIN);
   ```
-- Port: Main `34230/34229`, Testnet 44230/44229, Regtest 45340/45339
-  * Meaning: 34230 is the molar mass of a shuga [link](https://twitter.com/cryptozeny/status/1130167161475911682)
+- Port: Main `40001/40002`, Testnet 44230/44229, Regtest 45340/45339
+  * Meaning: 40001 is the molar mass of a shuga [link](https://twitter.com/cryptozeny/status/1130167161475911682)
 - DEFAULT_MAX_TIME_ADJUSTMENT `70` (was 4200)
 - MAX_FUTURE_BLOCK_TIME `60` (was 7200)
 - QT delayed refresh balance [source](https://github.com/shugacoin-project/shugacoin/commit/72436c90b29844cf507895df053103f9b6840776#diff-2e3836af182cfb375329c3463ffd91f8)

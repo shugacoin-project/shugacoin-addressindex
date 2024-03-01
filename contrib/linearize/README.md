@@ -18,7 +18,7 @@ Required configuration file `linearize.cfg` settings for linearize-hashes:
 
 Optional config file `linearize.cfg` setting for linearize-hashes:
 * RPC: `host`  (Default: `127.0.0.1`)
-* RPC: `port`  (Default: `34229`)
+* RPC: `port`  (Default: `40002`)
 * Blockchain: `min_height`, `max_height`
 * `rev_hash_bytes`: If true, the written block hash list will be
 byte-reversed. (In other words, the hash returned by getblockhash will have its
